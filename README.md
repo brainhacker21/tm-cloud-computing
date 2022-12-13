@@ -26,12 +26,6 @@ cukup tambahkan tanda pagar (#), semakin banyak jumlah pagar, maka semakin besar
 ## Heading level 2
 ### Heading level 3
 
-Line Breaks ini sebagai membuat baris baru
-jika tidak muat teks box, maka cukup tambahkan dua spasi atau lebih. 
-
-misalkan:
-github adalah layanan host web internet bersama      untuk proyek pengembangan software
-
 Bold text untuk menebalkan teks tertentu
 cukup tambahkan tanda dua bintang diawal dan diakhir bintang setelah teks berakhir.
 
