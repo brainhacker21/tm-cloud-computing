@@ -30,7 +30,7 @@ Line Breaks ini sebagai membuat baris baru
 jika tidak muat teks box, maka cukup tambahkan dua spasi atau lebih. 
 
 misalkan:
-github adalah layanan host web internet bersama  untuk proyek pengembangan software
+github adalah layanan host web internet bersama      untuk proyek pengembangan software
 
 Bold text untuk menebalkan teks tertentu
 cukup tambahkan tanda dua bintang diawal dan diakhir bintang setelah teks berakhir.
@@ -46,4 +46,3 @@ misalkan :
 * mempelajari tentang github
 
 
-saya mau belajar tentang **github
